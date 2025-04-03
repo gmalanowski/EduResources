@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Alice",
+        "borrowed_books": []
+    },
+    {
+        "name": "Bob",
+        "borrowed_books": []
+    }
+]
